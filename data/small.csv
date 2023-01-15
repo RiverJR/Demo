@@ -1,0 +1,30 @@
+Passenger,Survived,Pclass,Name,Sex,Age,SibSp,Parch,Ticket,Fare,Cabin,Embarked
+1.0,0.0,3.0,"Braund, Mr. Owen Harris",male,22.0,1.0,0.0,A/5 21171,7.0,NaN,S
+2.0,1.0,1.0,"Cumings, Mrs. John Bradley (Florence Briggs Thayer)",female,38.0,1.0,0.0,PC 17599,71.0,C85,C
+3.0,1.0,3.0,"Heikkinen, Miss. Laina",female,26.0,0.0,0.0,STON/O2. 3101282,7.0,NaN,S
+4.0,1.0,1.0,"Futrelle, Mrs. Jacques Heath (Lily May Peel)",female,35.0,1.0,0.0,113803,53.0,C123,S
+5.0,0.0,3.0,"Allen, Mr. William Henry",male,35.0,0.0,0.0,373450,8.0,NaN,S
+6.0,0.0,3.0,"Moran, Mr. James",male,-1.0,0.0,0.0,330877,8.4583,NaN,Q
+7.0,0.0,1.0,"McCarthy, Mr. Timothy J",male,54.0,0.0,0.0,17463,51.0,E46,S
+8.0,0.0,3.0,"Palsson, Master. Gosta Leonard",male,2.0,3.0,1.0,349909,21.0,NaN,S
+9.0,1.0,3.0,"Johnson, Mrs. Oscar W (Elisabeth Vilhelmina Berg)",female,27.0,0.0,2.0,347742,11.0,NaN,S
+10.0,1.0,2.0,"Nasser, Mrs. Nicholas (Adele Achem)",female,14.0,1.0,0.0,237736,30.0,NaN,C
+11.0,1.0,3.0,"Sandstrom, Miss. Marguerite Rut",female,4.0,1.0,1.0,PP 9549,16.0,G6,S
+12.0,1.0,1.0,"Bonnell, Miss. Elizabeth",female,58.0,0.0,0.0,113783,26.0,C103,S
+13.0,0.0,3.0,"Saundercock, Mr. William Henry",male,20.0,0.0,0.0,A/5. 2151,8.0,NaN,S
+14.0,0.0,3.0,"Andersson, Mr. Anders Johan",male,39.0,1.0,5.0,347082,31.0,NaN,S
+15.0,0.0,3.0,"Vestrom, Miss. Hulda Amanda Adolfina",female,14.0,0.0,0.0,350406,7.0,NaN,S
+16.0,1.0,2.0,"Hewlett, Mrs. (Mary D Kingcome) ",female,55.0,0.0,0.0,248706,16.0,NaN,S
+17.0,0.0,3.0,"Rice, Master. Eugene",male,2.0,4.0,1.0,382652,29.0,NaN,Q
+18.0,1.0,2.0,"Williams, Mr. Charles Eugene",male,-1.0,0.0,0.0,244373,13.0,NaN,S
+19.0,0.0,3.0,"Vander Planke, Mrs. Julius (Emelia Maria Vandemoortele)",female,31.0,1.0,0.0,345763,18.0,NaN,S
+20.0,1.0,3.0,"Masselmani, Mrs. Fatima",female,-1.0,0.0,0.0,2649,7.0,NaN,C
+21.0,0.0,2.0,"Fynney, Mr. Joseph J",male,35.0,0.0,0.0,239865,26.0,NaN,S
+22.0,1.0,2.0,"Beesley, Mr. Lawrence",male,34.0,0.0,0.0,248698,13.0,D56,S
+23.0,1.0,3.0,"McGowan, Miss. Anna ""Annie""",female,15.0,0.0,0.0,330923,8.0,NaN,Q
+24.0,1.0,1.0,"Sloper, Mr. William Thompson",male,28.0,0.0,0.0,113788,35.0,A6,S
+25.0,0.0,3.0,"Palsson, Miss. Torborg Danira",female,8.0,3.0,1.0,349909,21.0,NaN,S
+26.0,1.0,3.0,"Asplund, Mrs. Carl Oscar (Selma Augusta Emilia Johansson)",female,38.0,1.0,5.0,347077,31.0,NaN,S
+27.0,0.0,3.0,"Emir, Mr. Farred Chehab",male,-1.0,0.0,0.0,2631,7.0,NaN,C
+28.0,0.0,1.0,"Fortune, Mr. Charles Alexander",male,19.0,3.0,2.0,19950,263.0,C23 C25 C27,S
+29.0,1.0,3.0,"O'Dwyer, Miss. Ellen ""Nellie""",female,-1.0,0.0,0.0,330959,7.8792,NaN,Q

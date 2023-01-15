@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+    <xs:element name="data">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="row" maxOccurs="unbounded">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:element name="Passenger" type="xs:float" minOccurs="1" />
+                            <xs:element name="Survived" type="xs:float" minOccurs="1" />
+                            <xs:element name="Pclass" type="xs:float" minOccurs="1" />
+                            <xs:element name="Name" type="xs:string" minOccurs="1" />
+                            <xs:element name="Sex" type="xs:string" minOccurs="1" />
+                            <xs:element name="Age" type="xs:float" minOccurs="1" />
+                            <xs:element name="SibSp" type="xs:float" minOccurs="1" />
+                            <xs:element name="Parch" type="xs:float" minOccurs="1" />
+                            <xs:element name="Ticket" type="xs:string" minOccurs="1" />
+                            <xs:element name="Fare" type="xs:float" minOccurs="1" />
+                            <xs:element name="Cabin" type="xs:string" minOccurs="1" />
+                            <xs:element name="Embarked" type="xs:string" minOccurs="1" />
+                        </xs:sequence>
+                    </xs:complexType>
+                </xs:element>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+</xs:schema>
