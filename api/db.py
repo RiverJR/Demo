@@ -100,16 +100,12 @@ def update_passenger(new_passenger, passenger_id):
     update_expression = "SET "
     # iterates through passenger to update attribute values and update expression
     for key, value in new_passenger.items():
-        print(type(value))
-        print(isinstance(value, str))
         if key != "PassengerId":
             if str(value) is not None:
                 update_expression += f"{key} = :{key}, "
                 if isinstance(value, int):
-                    print("value is an int")
                     expression_attribute_values[f":{key}"] = {"N": f"{value}"}
                 elif isinstance(value, str):
-                    print("value is a str")
                     expression_attribute_values[f":{key}"] = {"S": f"{value}"}
     update_expression = update_expression[:-2]  # removes last comma and space
     try:
